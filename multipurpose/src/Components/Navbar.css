@@ -1,0 +1,15 @@
+.nav-item {
+  font-size: 20px;
+  color: black !important;
+}
+.nav-item :hover {
+  color: rgb(236, 14, 14);
+}
+.new {
+  display: flex !important;
+  justify-content: flex-end !important;
+}
+.icon {
+  padding: 10px;
+  font-size: 20px;
+}

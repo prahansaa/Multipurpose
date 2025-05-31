@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+  background: #ececec;
+}
+.box-area {
+  width: 930px;
+}
+img {
+  margin-top: 12px;
+  border-radius: 10px;
+}
+.para {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 30px;
+  font-weight: 600px;
+  margin-top: 5px;
+  color: #f70b32;
+}
+.new {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 15px;
+  font-weight: 900px;
+  color: #f70b32;
+}
+.left-box {
+  background: #b2cc1c;
+  color: white;
+}
