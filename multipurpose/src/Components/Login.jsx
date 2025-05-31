@@ -48,7 +48,7 @@ const Login = () => {
                   />
                   <label for="formCheck">
                     <small className="form-check-label text-secondary">
-                      Remember Me
+                      Remember Me Always
                     </small>
                   </label>
                 </div>
